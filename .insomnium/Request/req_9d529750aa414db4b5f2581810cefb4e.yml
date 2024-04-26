@@ -1,0 +1,24 @@
+_id: req_9d529750aa414db4b5f2581810cefb4e
+type: Request
+parentId: fld_b8d3c4b9ba014805bc50d20eff744720
+modified: 1714014357030
+created: 1714014350552
+url: http://localhost:8090/api/java-version
+name: Java Version
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1713971369165.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

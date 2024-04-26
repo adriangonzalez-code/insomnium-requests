@@ -1,0 +1,38 @@
+_id: req_b528ecfd827e4acb95e4a82ea0f5f485
+type: Request
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1712719370772
+created: 1712634453486
+url: http://localhost:8080/api/update
+name: Update Account
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Adrian Gonzalez",
+    	"email": "adrian@mail.com",
+    	"mobileNumber": "9876543210",
+    	"accountsDto": {
+    		"accountNumber": 1201528331,
+    		"accountType": "Current",
+    		"branchAddress": "124 Main Street, New York"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712634453486
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

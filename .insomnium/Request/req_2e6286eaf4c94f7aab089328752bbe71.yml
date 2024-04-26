@@ -1,0 +1,28 @@
+_id: req_2e6286eaf4c94f7aab089328752bbe71
+type: Request
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1712718461603
+created: 1712716758203
+url: http://localhost:8080/api/delete
+name: Delete Account
+description: ""
+method: DELETE
+body: {}
+parameters:
+  - id: pair_d02177c0ace74d79b5ae4ce333d84f57
+    name: mobileNumber
+    value: "987654321054"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712716758203
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

@@ -1,0 +1,36 @@
+_id: req_50ec804837234f2a8216e9a995a8cdeb
+type: Request
+parentId: fld_c3c7d9046b5241b799fec67be3afd708
+modified: 1712889806755
+created: 1712889678897
+url: localhost:9000/api/update
+name: Update Card
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"mobileNumber": "4354437687",
+    	"cardNumber": "100630051848",
+    	"cardType": "Debit Card",
+    	"totalLimit": 100000,
+    	"amountUsed": 10000,
+    	"availableAmount": 90000
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712889678897
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

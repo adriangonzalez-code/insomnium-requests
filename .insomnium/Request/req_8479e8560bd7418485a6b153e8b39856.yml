@@ -1,0 +1,33 @@
+_id: req_8479e8560bd7418485a6b153e8b39856
+type: Request
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1712718361428
+created: 1712322258139
+url: localhost:8080/api/create
+name: Create Account
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name" : "Madan Reddy",
+    	"email" : "tutor@mail.com",
+    	"mobileNumber" : "9876543210"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712632381220
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

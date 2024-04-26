@@ -1,0 +1,24 @@
+_id: req_566f1699867145f79e80d47455944ab5
+type: Request
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1713932127651
+created: 1713928015176
+url: http://localhost:8080/api/build-info
+name: Build Version
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1713928015176
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

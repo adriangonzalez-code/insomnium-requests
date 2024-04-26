@@ -1,0 +1,36 @@
+_id: req_1563f45a1d3f4ba6ac9270da4fea4a91
+type: Request
+parentId: fld_b8d3c4b9ba014805bc50d20eff744720
+modified: 1712890199070
+created: 1712889919532
+url: localhost:8090/api/update
+name: Update Loan
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"mobileNumber": "4354437687",
+    	"loanNumber": "100431572693",
+    	"loanType": "Vehicle Loan",
+    	"totalLoan": 100000,
+    	"amountPaid": 10000,
+    	"outstandingAmount": 90000
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712889919532
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

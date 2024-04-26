@@ -1,0 +1,28 @@
+_id: req_fb434f2d743b4943b8b8a2adf1ed9982
+type: Request
+parentId: fld_b8d3c4b9ba014805bc50d20eff744720
+modified: 1712890054785
+created: 1712889904806
+url: localhost:8090/api/fetch
+name: Fetch Loan
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_dc00ad16cb834db1a186aa4ed745934c
+    name: mobileNumber
+    value: "4354437687"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712889904806
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

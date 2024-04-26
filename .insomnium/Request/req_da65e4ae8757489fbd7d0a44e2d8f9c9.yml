@@ -1,0 +1,28 @@
+_id: req_da65e4ae8757489fbd7d0a44e2d8f9c9
+type: Request
+parentId: fld_b8d3c4b9ba014805bc50d20eff744720
+modified: 1712890290272
+created: 1712889936085
+url: localhost:8090/api/delete
+name: Delete Loan
+description: ""
+method: DELETE
+body: {}
+parameters:
+  - id: pair_f462f0f1806a43a48298ed4306c21df3
+    name: mobileNumber
+    value: "4354437687"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712889936085
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

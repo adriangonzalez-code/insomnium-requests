@@ -1,0 +1,24 @@
+_id: req_3afa48d9e0134eb3b13faac2ba829923
+type: Request
+parentId: fld_b8d3c4b9ba014805bc50d20eff744720
+modified: 1714014383598
+created: 1714014369669
+url: http://localhost:8090/api/contact-info
+name: Contact Info
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1713992838901.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

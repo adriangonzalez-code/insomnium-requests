@@ -1,0 +1,28 @@
+_id: req_54299c968a59426d9e3d1daa0478758a
+type: Request
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1713405800019
+created: 1712632397102
+url: http://localhost:8080/api/fetch
+name: Fetch Account Details
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_4b690a367d604bed8fb16fedd348db57
+    name: mobileNumber
+    value: "9876543210"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712632397102
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

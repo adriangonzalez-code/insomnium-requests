@@ -1,0 +1,28 @@
+_id: req_3fa6744ca01d4e369297969e61cb7a8f
+type: Request
+parentId: fld_c3c7d9046b5241b799fec67be3afd708
+modified: 1712889856667
+created: 1712889814295
+url: localhost:9000/api/delete
+name: Delete Card
+description: ""
+method: DELETE
+body: {}
+parameters:
+  - id: pair_8667143b02a444f1b3e8d5427f9c4f57
+    name: mobileNumber
+    value: "4354437687"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1712889814295
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
