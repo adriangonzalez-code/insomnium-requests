@@ -1,10 +1,10 @@
-_id: req_60a9f924731446aeb48df018af409162
+_id: req_861dd57090ca473592fa7b7180477561
 type: Request
 parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714097316436
-created: 1714094616203
-url: http://localhost:8071/accounts/prod
-name: Accounts Server
+modified: 1714097346593
+created: 1714097342961
+url: http://localhost:8071/cards/prod
+name: Cards Server
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714097306131
+metaSortKey: -1714035590220.25
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

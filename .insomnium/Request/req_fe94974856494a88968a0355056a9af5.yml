@@ -1,10 +1,10 @@
-_id: req_60a9f924731446aeb48df018af409162
+_id: req_fe94974856494a88968a0355056a9af5
 type: Request
 parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714097316436
-created: 1714094616203
-url: http://localhost:8071/accounts/prod
-name: Accounts Server
+modified: 1714097332466
+created: 1714097328326
+url: http://localhost:8071/loans/prod
+name: Loans Server
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714097306131
+metaSortKey: -1714056162190.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
