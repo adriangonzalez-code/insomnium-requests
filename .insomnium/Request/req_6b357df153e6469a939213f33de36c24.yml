@@ -1,0 +1,29 @@
+_id: req_6b357df153e6469a939213f33de36c24
+type: Request
+parentId: fld_a1246028150d4cdba278166e7d95a1e6
+modified: 1714601250519
+created: 1714601210171
+url: http://localhost:8070/eureka/apps
+name: Apps
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+    id: pair_b246228b6afc4b0588269c379e04deac
+  - id: pair_7e97ff7c14e14ecb8ab8df80625d5f42
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1714601210171
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

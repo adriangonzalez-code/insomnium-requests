@@ -1,10 +1,10 @@
-_id: req_60a9f924731446aeb48df018af409162
+_id: req_06c9c79f8c9543388baaf1e4c4d9e6e9
 type: Request
 parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714447653455
-created: 1714094616203
-url: http://localhost:8071/accounts/qa
-name: Accounts Server
+modified: 1714597062453
+created: 1714597020166
+url: http://localhost:8071/eurekaserver/default
+name: Eureka Server
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714097306131
+metaSortKey: -1714597020166
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

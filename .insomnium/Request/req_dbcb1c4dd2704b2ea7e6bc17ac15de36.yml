@@ -1,19 +1,23 @@
-_id: req_60a9f924731446aeb48df018af409162
+_id: req_dbcb1c4dd2704b2ea7e6bc17ac15de36
 type: Request
 parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714447653455
-created: 1714094616203
-url: http://localhost:8071/accounts/qa
-name: Accounts Server
+modified: 1714108714055
+created: 1714108099103
+url: http://localhost:8071/encrypt
+name: Encrypt
 description: ""
-method: GET
-body: {}
+method: POST
+body:
+  mimeType: text/plain
+  text: smitharay@eazybank.com
 parameters: []
 headers:
+  - name: Content-Type
+    value: text/plain
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714097306131
+metaSortKey: -1714108099103
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

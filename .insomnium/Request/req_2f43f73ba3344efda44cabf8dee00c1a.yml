@@ -1,19 +1,19 @@
-_id: req_60a9f924731446aeb48df018af409162
+_id: req_2f43f73ba3344efda44cabf8dee00c1a
 type: Request
-parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714447653455
-created: 1714094616203
-url: http://localhost:8071/accounts/qa
-name: Accounts Server
+parentId: fld_c3c7d9046b5241b799fec67be3afd708
+modified: 1714110247848
+created: 1714110046566
+url: http://localhost:9000/actuator/refresh
+name: Actuator Refresh
 description: ""
-method: GET
+method: POST
 body: {}
 parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714097306131
+metaSortKey: -1714110046566
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

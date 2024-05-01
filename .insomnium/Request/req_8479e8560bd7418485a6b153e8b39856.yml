@@ -1,7 +1,7 @@
 _id: req_8479e8560bd7418485a6b153e8b39856
 type: Request
 parentId: fld_12d60207207947669b6aa70d5431ce87
-modified: 1712718361428
+modified: 1714585137127
 created: 1712322258139
 url: localhost:8080/api/create
 name: Create Account
@@ -11,9 +11,9 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"name" : "Madan Reddy",
-    	"email" : "tutor@mail.com",
-    	"mobileNumber" : "9876543210"
+    	"name" : "John Doe",
+    	"email" : "john@mail.com",
+    	"mobileNumber" : "9876540025"
     }
 parameters: []
 headers:

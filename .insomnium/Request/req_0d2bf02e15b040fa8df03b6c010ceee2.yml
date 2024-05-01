@@ -1,19 +1,19 @@
-_id: req_60a9f924731446aeb48df018af409162
+_id: req_0d2bf02e15b040fa8df03b6c010ceee2
 type: Request
-parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714447653455
-created: 1714094616203
-url: http://localhost:8071/accounts/qa
-name: Accounts Server
+parentId: fld_c3c7d9046b5241b799fec67be3afd708
+modified: 1714447837029
+created: 1714447832855
+url: http://localhost:9000/actuator/busrefresh
+name: Actuator BusRefresh
 description: ""
-method: GET
+method: POST
 body: {}
 parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714097306131
+metaSortKey: -1714109985448
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

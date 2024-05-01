@@ -1,23 +1,19 @@
-_id: req_54299c968a59426d9e3d1daa0478758a
+_id: req_f442641388984e8887c29ff230c920c4
 type: Request
 parentId: fld_12d60207207947669b6aa70d5431ce87
-modified: 1714585162423
-created: 1712632397102
-url: http://localhost:8080/api/fetch
-name: Fetch Account Details
+modified: 1714447866643
+created: 1714109924330
+url: http://localhost:8080/actuator/busrefresh
+name: Actuator
 description: ""
-method: GET
+method: POST
 body: {}
-parameters:
-  - id: pair_4b690a367d604bed8fb16fedd348db57
-    name: mobileNumber
-    value: "9876540025"
-    description: ""
+parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1712632397102
+metaSortKey: -1714109924330
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
