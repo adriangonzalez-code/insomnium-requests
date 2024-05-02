@@ -1,7 +1,7 @@
 _id: req_589ea08b7c80407e8509cb00311c5172
 type: Request
 parentId: fld_c3c7d9046b5241b799fec67be3afd708
-modified: 1712889608280
+modified: 1714608552233
 created: 1712889419472
 url: localhost:9000/api/create
 name: Create Card
@@ -13,7 +13,7 @@ body:
 parameters:
   - id: pair_c72060646aa44fb698e92f8584a95a31
     name: mobileNumber
-    value: "4354437687"
+    value: "9876540025"
     description: ""
 headers:
   - name: Content-Type

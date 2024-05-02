@@ -1,19 +1,19 @@
-_id: req_06c9c79f8c9543388baaf1e4c4d9e6e9
+_id: req_76a08c7da8f74fa6a0f59e0d405e2944
 type: Request
-parentId: fld_d77ffc082dfd421db34a492d7451d5a1
-modified: 1714617817534
-created: 1714597020166
-url: http://localhost:8071/eurekaserver/prod
-name: Eureka Server
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1714601613347
+created: 1714601608445
+url: http://localhost:8080/actuator/shutdown
+name: Shutdown
 description: ""
-method: GET
+method: POST
 body: {}
 parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1714597020166
+metaSortKey: -1714109011716.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

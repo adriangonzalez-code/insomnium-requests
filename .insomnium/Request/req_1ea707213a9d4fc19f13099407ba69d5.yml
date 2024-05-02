@@ -1,15 +1,15 @@
-_id: req_0a40ef7bf8624285bfe0cf445aa89439
+_id: req_1ea707213a9d4fc19f13099407ba69d5
 type: Request
-parentId: fld_c3c7d9046b5241b799fec67be3afd708
-modified: 1714608558451
-created: 1712889625718
-url: localhost:9000/api/fetch
-name: Fetch Cards
+parentId: fld_12d60207207947669b6aa70d5431ce87
+modified: 1714608584754
+created: 1714608497011
+url: localhost:8080/api/fetchCustomerDetails
+name: Customer Details
 description: ""
 method: GET
 body: {}
 parameters:
-  - id: pair_6afbd6680879413c8d992b325adbe4f6
+  - id: pair_4fe95195be4e45449ba54dcbbe453716
     name: mobileNumber
     value: "9876540025"
     description: ""
@@ -17,7 +17,7 @@ headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1712889625718
+metaSortKey: -1714608497011
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

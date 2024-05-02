@@ -1,23 +1,19 @@
-_id: req_0a40ef7bf8624285bfe0cf445aa89439
+_id: req_a0a038b9505446ef968cd94e92b21782
 type: Request
 parentId: fld_c3c7d9046b5241b799fec67be3afd708
-modified: 1714608558451
-created: 1712889625718
-url: localhost:9000/api/fetch
-name: Fetch Cards
+modified: 1714601653878
+created: 1714601649777
+url: http://localhost:9000/actuator/shutdown
+name: Shutdown
 description: ""
-method: GET
+method: POST
 body: {}
-parameters:
-  - id: pair_6afbd6680879413c8d992b325adbe4f6
-    name: mobileNumber
-    value: "9876540025"
-    description: ""
+parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1712889625718
+metaSortKey: -1714110016007
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

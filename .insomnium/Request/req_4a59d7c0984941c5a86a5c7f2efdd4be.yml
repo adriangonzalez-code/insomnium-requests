@@ -1,23 +1,19 @@
-_id: req_219af0fa16324c82b2eec55fa213a1b1
+_id: req_4a59d7c0984941c5a86a5c7f2efdd4be
 type: Request
 parentId: fld_b8d3c4b9ba014805bc50d20eff744720
-modified: 1714608565018
-created: 1712889894021
-url: localhost:8090/api/create
-name: Create Loan
+modified: 1714601688620
+created: 1714601683476
+url: http://localhost:8090/actuator/shutdown
+name: Shutdown
 description: ""
 method: POST
 body: {}
-parameters:
-  - id: pair_2fe3f15512bb475c9a0cacd64a20ba45
-    name: mobileNumber
-    value: "9876540025"
-    description: ""
+parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
 authentication: {}
-metaSortKey: -1712889894021
+metaSortKey: -1714014308712
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
