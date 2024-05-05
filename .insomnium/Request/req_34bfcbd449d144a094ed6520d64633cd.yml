@@ -1,0 +1,33 @@
+_id: req_34bfcbd449d144a094ed6520d64633cd
+type: Request
+parentId: fld_5544a1a12df74118bc1ecb5ffd81354f
+modified: 1714889122469
+created: 1714873503990
+url: localhost:8072/eazybank/accounts/api/create
+name: Create Account
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name" : "John Doe",
+    	"email" : "john@mail.com",
+    	"mobileNumber" : "9876540025"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1714873550024
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

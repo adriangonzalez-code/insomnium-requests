@@ -1,0 +1,28 @@
+_id: req_324c4a91b59d48cf809d49fda88d4a1e
+type: Request
+parentId: fld_3cb33ca823b84a4e9eabde7e7abe9069
+modified: 1714876945664
+created: 1714876903232
+url: http://localhost:8072/eazybank/cards/api/fetch
+name: Fetch Card
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_8e2353588f754fadbbca84e5e9143575
+    name: mobileNumber
+    value: "9876540025"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1714876903232
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

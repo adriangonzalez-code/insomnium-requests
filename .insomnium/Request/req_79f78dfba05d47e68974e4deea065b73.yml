@@ -1,0 +1,28 @@
+_id: req_79f78dfba05d47e68974e4deea065b73
+type: Request
+parentId: fld_3cb33ca823b84a4e9eabde7e7abe9069
+modified: 1714876882454
+created: 1714876809366
+url: http://localhost:8072/eazybank/cards/api/create
+name: Create Card
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_81e1c79af00544ec826af29bb5c13777
+    name: mobileNumber
+    value: "9876540025"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1714876809366
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

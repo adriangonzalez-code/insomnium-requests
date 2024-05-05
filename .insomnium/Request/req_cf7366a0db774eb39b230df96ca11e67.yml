@@ -1,0 +1,28 @@
+_id: req_cf7366a0db774eb39b230df96ca11e67
+type: Request
+parentId: fld_5544a1a12df74118bc1ecb5ffd81354f
+modified: 1714886718720
+created: 1714886647584
+url: http://localhost:8072/eazybank/accounts/api/fetchCustomerDetails
+name: Customer Details
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_9889043546ba4c85949c3ff092f39701
+    name: mobileNumber
+    value: "9876540025"
+    description: ""
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1714886647584
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
