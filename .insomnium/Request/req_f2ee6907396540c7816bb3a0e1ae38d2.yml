@@ -1,0 +1,24 @@
+_id: req_f2ee6907396540c7816bb3a0e1ae38d2
+type: Request
+parentId: fld_5544a1a12df74118bc1ecb5ffd81354f
+modified: 1715136429081
+created: 1715136425305
+url: localhost:8072/eazybank/accounts/api/build-info
+name: Build Info
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1714966198781
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

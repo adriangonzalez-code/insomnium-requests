@@ -1,0 +1,24 @@
+_id: req_744a9479ddd24a78a8a8182a28f9c8b4
+type: Request
+parentId: fld_133d16e38c9744c0a4dc795c7373a32c
+modified: 1715135179849
+created: 1715135158568
+url: localhost:8072/eazybank/loans/api/contact-info
+name: Contact Info
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1715135158568
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

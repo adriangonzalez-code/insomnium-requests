@@ -1,0 +1,24 @@
+_id: req_b8789aa93f154491864047ca22cb94b8
+type: Request
+parentId: fld_5544a1a12df74118bc1ecb5ffd81354f
+modified: 1715221448133
+created: 1715221428424
+url: localhost:8072/eazybank/accounts/api/java-version
+name: Java Version
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1715005974379.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
