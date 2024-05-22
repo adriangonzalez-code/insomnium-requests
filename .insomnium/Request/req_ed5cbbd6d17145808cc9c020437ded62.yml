@@ -1,0 +1,49 @@
+_id: req_ed5cbbd6d17145808cc9c020437ded62
+type: Request
+parentId: fld_ab24700e86c943158bb1a4c9fda25723
+modified: 1716352214138
+created: 1716351812673
+url: http://localhost:7080/realms/master/protocol/openid-connect/token
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_9eabd34d6689427ca132145e148a80c7
+      name: grant_type
+      value: client_credentials
+      description: ""
+    - id: pair_a5ae6f9665ee485a97df3e97c11354fc
+      name: client_id
+      value: eazybank-callcenter-cc
+      description: ""
+    - id: pair_fb527262a66a4b32894bdcfa04a5a34e
+      name: client_secret
+      value: xvMbDkGoXpCCUGluVzTsaEgIY30jsycH
+      description: ""
+    - id: pair_aaf75248a4b04a41b3db252cda1febf3
+      name: scope
+      value: openid profile email
+      description: ""
+      disabled: false
+parameters:
+  - id: pair_1a19997715f4481d80e32e777e2cf182
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1716351812673
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

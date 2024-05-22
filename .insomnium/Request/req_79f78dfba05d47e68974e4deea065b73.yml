@@ -1,7 +1,7 @@
 _id: req_79f78dfba05d47e68974e4deea065b73
 type: Request
 parentId: fld_3cb33ca823b84a4e9eabde7e7abe9069
-modified: 1714876882454
+modified: 1716354218818
 created: 1714876809366
 url: http://localhost:8072/eazybank/cards/api/create
 name: Create Card
@@ -16,7 +16,12 @@ parameters:
 headers:
   - name: User-Agent
     value: insomnium/0.2.3-a
-authentication: {}
+authentication:
+  type: oauth2
+  grantType: client_credentials
+  accessTokenUrl: http://localhost:7080/realms/master/protocol/openid-connect/token
+  clientId: eazybank-callcenter-cc
+  clientSecret: xvMbDkGoXpCCUGluVzTsaEgIY30jsycH
 metaSortKey: -1714876809366
 isPrivate: false
 settingStoreCookies: true
