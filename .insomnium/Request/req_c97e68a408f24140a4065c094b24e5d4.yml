@@ -1,0 +1,24 @@
+_id: req_c97e68a408f24140a4065c094b24e5d4
+type: Request
+parentId: fld_af44aa49fa6c4b578a7e01b7a899aed9
+modified: 1724332403240
+created: 1724331571385
+url: http://localhost:5000/clientes/66c73520e3314751bebcff2b
+name: Muestra Cliente
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724332403203
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

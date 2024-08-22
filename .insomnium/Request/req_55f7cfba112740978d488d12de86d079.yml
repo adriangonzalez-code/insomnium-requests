@@ -1,0 +1,47 @@
+_id: req_55f7cfba112740978d488d12de86d079
+type: Request
+parentId: fld_af44aa49fa6c4b578a7e01b7a899aed9
+modified: 1724332408948
+created: 1716526515909
+url: http://localhost:5000/clientes
+name: Crear Cliente
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: nombre
+      value: Juanpa
+      id: pair_0105b525acab4d0e9d4e48930083c186
+    - id: pair_5107ec381b1040858cbe82b938c64bf7
+      name: apellido
+      value: Torres
+      description: ""
+    - id: pair_6a7eb26f6b8e4825a11fd506b0712957
+      name: empresa
+      value: Google
+      description: ""
+    - id: pair_ef315e31d974457a946e4b7bbe38b955
+      name: email
+      value: juanpa@google.com
+      description: ""
+    - id: pair_45ea01f5e27f40feb441d72ab3c15093
+      name: telefono
+      value: "3146145421"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724332403503
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

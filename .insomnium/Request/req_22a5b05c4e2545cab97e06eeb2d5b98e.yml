@@ -1,0 +1,47 @@
+_id: req_22a5b05c4e2545cab97e06eeb2d5b98e
+type: Request
+parentId: fld_af44aa49fa6c4b578a7e01b7a899aed9
+modified: 1724332410847
+created: 1724332042113
+url: http://localhost:5000/clientes/66c7353ee3314751bebcff2d
+name: Actualizar Cliente
+description: ""
+method: PUT
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: nombre
+      value: John
+      id: pair_0105b525acab4d0e9d4e48930083c186
+    - id: pair_5107ec381b1040858cbe82b938c64bf7
+      name: apellido
+      value: Doe
+      description: ""
+    - id: pair_6a7eb26f6b8e4825a11fd506b0712957
+      name: empresa
+      value: AirBNB
+      description: ""
+    - id: pair_ef315e31d974457a946e4b7bbe38b955
+      name: email
+      value: john@airbnb.com
+      description: ""
+    - id: pair_45ea01f5e27f40feb441d72ab3c15093
+      name: telefono
+      value: "3216549870"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724332403603
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

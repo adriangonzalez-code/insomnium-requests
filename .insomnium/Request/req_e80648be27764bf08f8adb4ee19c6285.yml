@@ -1,7 +1,7 @@
 _id: req_e80648be27764bf08f8adb4ee19c6285
 type: Request
 parentId: fld_133d16e38c9744c0a4dc795c7373a32c
-modified: 1716354245635
+modified: 1716435049051
 created: 1714886598676
 url: http://localhost:8072/eazybank/loans/api/create
 name: Create Loan
@@ -21,7 +21,7 @@ authentication:
   grantType: client_credentials
   accessTokenUrl: http://localhost:7080/realms/master/protocol/openid-connect/token
   clientId: eazybank-callcenter-cc
-  clientSecret: xvMbDkGoXpCCUGluVzTsaEgIY30jsycH
+  clientSecret: RkMdue24EYSOZRGTHWpr04XZvhEJsMjc
 metaSortKey: -1714886598676
 isPrivate: false
 settingStoreCookies: true

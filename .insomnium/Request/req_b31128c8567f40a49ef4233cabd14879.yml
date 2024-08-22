@@ -1,0 +1,24 @@
+_id: req_b31128c8567f40a49ef4233cabd14879
+type: Request
+parentId: fld_af44aa49fa6c4b578a7e01b7a899aed9
+modified: 1724332406909
+created: 1724331466244
+url: http://localhost:5000/clientes
+name: Mostrar Clientes
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724332403403
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

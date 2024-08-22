@@ -1,7 +1,7 @@
 _id: req_34bfcbd449d144a094ed6520d64633cd
 type: Request
 parentId: fld_5544a1a12df74118bc1ecb5ffd81354f
-modified: 1716353936019
+modified: 1716434955099
 created: 1714873503990
 url: localhost:8072/eazybank/accounts/api/create
 name: Create Account
@@ -24,9 +24,9 @@ headers:
 authentication:
   type: oauth2
   grantType: client_credentials
-  accessTokenUrl: http://localhost:7080/realms/master/protocol/openid-connect/token
+  clientSecret: RkMdue24EYSOZRGTHWpr04XZvhEJsMjc
   clientId: eazybank-callcenter-cc
-  clientSecret: xvMbDkGoXpCCUGluVzTsaEgIY30jsycH
+  accessTokenUrl: http://localhost:7080/realms/master/protocol/openid-connect/token
 metaSortKey: -1714873550024
 isPrivate: false
 settingStoreCookies: true
