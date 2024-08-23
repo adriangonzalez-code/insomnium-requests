@@ -1,0 +1,38 @@
+_id: req_482abe9d111b4debaf30bba998177810
+type: Request
+parentId: fld_343546ddb6334e67b982f113d5d5183a
+modified: 1724378572632
+created: 1724378428461
+url: http://localhost:5000/pedidos/66c7eae7f899441b66960ad0
+name: Actualizar Pedido
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"cliente": "66c7346de3314751bebcff27",
+    	"pedido": [
+    		{"producto": "66c7e050ca45cf7c1aeb1199", "cantidad" : 1},
+    		{"producto": "66c7e093ca45cf7c1aeb11a1", "cantidad" : 1},
+    		{"producto": "66c7e0c1ca45cf7c1aeb11a7", "cantidad" : 2},
+    		{"producto": "66c7e062ca45cf7c1aeb119b", "cantidad" : 1}
+    	],
+    	"total" : 299.99
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724375790057.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

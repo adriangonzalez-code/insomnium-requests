@@ -1,0 +1,41 @@
+_id: req_1340c933fbce48059fd8f13595f5cc04
+type: Request
+parentId: fld_9522f95d08be4945bde12142bc279d4f
+modified: 1724376687321
+created: 1724375772686
+url: http://localhost:5000/productos/66c7e06fca45cf7c1aeb119d
+name: Actualizar Producto
+description: ""
+method: PUT
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: nombre
+      value: Camisa ReduxJS
+      id: pair_0105b525acab4d0e9d4e48930083c186
+    - id: pair_6409d0236a064d5bb0e3a84042a2e899
+      name: precio
+      value: "18"
+      description: ""
+    - id: pair_f67b4a2c2cf249c88dd38e0f257a047a
+      name: imagen
+      value: ""
+      description: ""
+      type: file
+      fileName: D:\PC\Descargas\imagenes+camisas\img\12.jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724374124102
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

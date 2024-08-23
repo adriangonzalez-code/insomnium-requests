@@ -1,0 +1,24 @@
+_id: req_3ed7de5d177f44c68080e572cc161630
+type: Request
+parentId: fld_9522f95d08be4945bde12142bc279d4f
+modified: 1724377438426
+created: 1724375419952
+url: http://localhost:5000/productos/66c7e093ca45cf7c1aeb11a1
+name: Muestra Producto
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724374124302
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

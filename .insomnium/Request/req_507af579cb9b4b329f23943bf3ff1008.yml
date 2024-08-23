@@ -1,0 +1,24 @@
+_id: req_507af579cb9b4b329f23943bf3ff1008
+type: Request
+parentId: fld_343546ddb6334e67b982f113d5d5183a
+modified: 1724378800011
+created: 1724378796653
+url: http://localhost:5000/pedidos/66c7eae7f899441b66960ad0
+name: Eliminar Pedido
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724377587800
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

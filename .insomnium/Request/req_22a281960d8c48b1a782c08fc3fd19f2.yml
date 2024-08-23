@@ -1,0 +1,28 @@
+_id: req_22a281960d8c48b1a782c08fc3fd19f2
+type: Request
+parentId: fld_9522f95d08be4945bde12142bc279d4f
+modified: 1724376992180
+created: 1724376982634
+url: http://localhost:5000/productos/66c7e06fca45cf7c1aeb119d
+name: Eliminar Producto
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724374124052
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

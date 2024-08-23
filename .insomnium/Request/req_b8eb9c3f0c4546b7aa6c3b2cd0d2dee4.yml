@@ -1,0 +1,42 @@
+_id: req_b8eb9c3f0c4546b7aa6c3b2cd0d2dee4
+type: Request
+parentId: fld_9522f95d08be4945bde12142bc279d4f
+modified: 1724375268507
+created: 1724374123902
+url: http://localhost:5000/productos
+name: Crear Producto
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_ea8668c589e94a53a44455620ac1345f
+      name: nombre
+      value: Camisa JS
+      description: ""
+    - id: pair_55df50c98fcd4603a32e0849843dc73a
+      name: precio
+      value: "27"
+      description: ""
+    - id: pair_2c686b4a213f43f6900330608f455889
+      name: imagen
+      value: ""
+      description: ""
+      type: file
+      fileName: D:\PC\Descargas\imagenes+camisas\img\12.jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724374123902
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []

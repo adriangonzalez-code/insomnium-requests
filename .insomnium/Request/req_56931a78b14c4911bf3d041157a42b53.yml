@@ -1,0 +1,24 @@
+_id: req_56931a78b14c4911bf3d041157a42b53
+type: Request
+parentId: fld_343546ddb6334e67b982f113d5d5183a
+modified: 1724378000086
+created: 1724377983761
+url: http://localhost:5000/pedidos
+name: Mostrar Pedidos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1724377983761
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
